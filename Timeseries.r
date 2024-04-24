@@ -25,3 +25,5 @@ acf(ts_data, main = "ACF Plot")
 pacf(ts_data, main = "PACF Plot")
 
 
+
+# you can see plots like this : https://rdrr.io/snippets/
